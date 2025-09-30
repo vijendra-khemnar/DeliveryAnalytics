@@ -1,0 +1,31 @@
+# Delivery Analytics System - Python Dependencies
+# Generated on: October 1, 2025
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Date/Time Processing
+dateparser>=1.1.8
+
+# Configuration Management
+python-dotenv>=1.0.0
+
+# API Integration (for Perplexity AI)
+requests>=2.31.0
+
+# Optional: OpenAI Integration (for enhanced NLU)
+# Uncomment if you want to use OpenAI for natural language processing
+# openai>=1.0.0
+
+# Optional: Data Visualization (for future enhancements)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# Development and Testing (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# Documentation (optional)
+# sphinx>=6.0.0
+# sphinx-rtd-theme>=1.2.0
